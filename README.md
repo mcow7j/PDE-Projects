@@ -1,5 +1,5 @@
-# PDE-s
-A repository of past Partial Differential Equation projects. Intro to PDES projects 1-3 were completed in 2018.
+A repository of past Partial Differential Equation projects. Intro to PDES projects 1-3 were completed in MATLAB in 2018 for the Imperial introduction to computational PDE's course.
+
 ### Intro to PDE's Project 1 2018
 *  Implemented Basic Finite difference coordinates in cylindrical coordinates.
 ### Intro to PDE's Project 2 2018
