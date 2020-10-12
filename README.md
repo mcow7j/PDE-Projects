@@ -12,12 +12,10 @@ Project was  concerned with numerically solving equations of the form on a unifo
 ![image](https://user-images.githubusercontent.com/58078485/95730833-b5297780-0c76-11eb-9672-72e0fbbb6525.png)
 
 *  Numerical Solutions for equation (1) were achieved by using a Centred Finite Difference Method along with Gauss Seidel and Multi-Grid method to improve convergence. 
-*  Numerical Solutions for equation (1) were achieved by using a Centred Finite Difference and Crank Nicolson Method along with an altered Gauss Seidel and Multi-Grid methods to improve convergence.
+*  Numerical Solutions for equation (10) were achieved by using a Centred Finite Difference and Crank Nicolson Method along with an altered Gauss Seidel and Multi-Grid methods to improve convergence.
 *  Below is an example simulation with a known solution for error comparison.
 
 ![image](https://user-images.githubusercontent.com/58078485/95731442-71833d80-0c77-11eb-88da-47db4a045187.png)
-
-
 
 ### Intro to PDE's Project 3 2018
 *  Implemented a Multigrid method on a L- shaped grid.
