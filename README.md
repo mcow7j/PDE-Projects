@@ -8,7 +8,7 @@ A repository of past Partial Differential Equation projects. Intro to PDES proje
 
 ### Intro to PDE's Project 2 2018
 Project was  concerned with numerically solving equations of the form on a uniform rectangular grid:
-![image](https://user-images.githubusercontent.com/58078485/95730186-ce7df400-0c75-11eb-8115-8c2c9ac31913.png)
+![image](https://user-images.githubusercontent.com/58078485/95731668-b7d89c80-0c77-11eb-9522-632b230ee670.png)
 ![image](https://user-images.githubusercontent.com/58078485/95730833-b5297780-0c76-11eb-9672-72e0fbbb6525.png)
 
 *  Numerical Solutions for equation (1) were achieved by using a Centred Finite Difference Method along with Gauss Seidel and Multi-Grid method to improve convergence. 
