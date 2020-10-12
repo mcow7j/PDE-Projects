@@ -9,6 +9,10 @@ A repository of past Partial Differential Equation projects. Intro to PDES proje
 ### Intro to PDE's Project 2 2018
 *  Implemented a Multi Grid method on rectangular grid.
 *  Measured performance of solver.  
+
+$`\sqrt{2}`$ 
+
+$$ \frac{2}{v} $$
 ### Intro to PDE's Project 3 2018
 *  Implemented a Multigrid method on a L- shaped grid.
 
