@@ -18,7 +18,7 @@ Project was  concerned with numerically solving equations of the form on a unifo
 ![image](https://user-images.githubusercontent.com/58078485/95731442-71833d80-0c77-11eb-88da-47db4a045187.png)
 
 ### Intro to PDE's Project 3 2018
-Project focused on the solving of Turing Systems shown below using similar methods to Project 2 with a focus on stabilty analysis and non-regular domains:
+Project focused on the solving of Turing Systems with Neumann BC shown below using similar methods to Project 2 with a focus on stabilty analysis and non-regular domains:
 
 ![image](https://user-images.githubusercontent.com/58078485/95735471-c07fa180-0c7c-11eb-8c12-818ed77de28f.png)
 
@@ -34,5 +34,3 @@ For example the Gauss Seidel step now solves the following:
 * The graph below shows a stripes pattern and spots pattern with their relative stabilities.
 
 ![image](https://user-images.githubusercontent.com/58078485/95736416-20c31300-0c7e-11eb-9000-34ca47935136.png) 
-
-
