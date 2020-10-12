@@ -2,6 +2,9 @@ A repository of past Partial Differential Equation projects. Intro to PDES proje
 
 ### Intro to PDE's Project 1 2018
 *  Implemented Centered Finite difference method on a linked diffusion system in polar coordinates.
+*  Example contour graphs shown below for some fixed times.
+
+![example_graph](https://user-images.githubusercontent.com/58078485/95724705-94f5ba80-0c6e-11eb-8428-b497f0791ad0.png)
 
 ### Intro to PDE's Project 2 2018
 *  Implemented a Multi Grid method on rectangular grid.
