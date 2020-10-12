@@ -22,7 +22,9 @@ Project focused on the solving of Turing Systems shown below using similar metho
 
 ![image](https://user-images.githubusercontent.com/58078485/95735471-c07fa180-0c7c-11eb-8c12-818ed77de28f.png)
 
-For example the Gauss Seidel method solves the following:
+For example the Gauss Seidel step now solves the following:
+
+![image](https://user-images.githubusercontent.com/58078485/95737121-19503980-0c7f-11eb-8828-b586b1cc9757.png)
 
 
 * The graphs below show how the numerical simulation can generate a spots pattern which can typically be seen on animals. This was done via domain decomposition. 
