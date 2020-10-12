@@ -15,6 +15,7 @@ Project was  concerned with numerically solving equations of the form on a unifo
 *  Numerical Solutions for equation (1) were achieved by using a Centred Finite Difference and Crank Nicolson Method along with an altered Gauss Seidel and Multi-Grid methods to improve convergence.
 *  Below is an example simulation with a known solution for error comparison.
 
+![image](https://user-images.githubusercontent.com/58078485/95731442-71833d80-0c77-11eb-88da-47db4a045187.png)
 
 
 
