@@ -20,6 +20,8 @@ Project was  concerned with numerically solving equations of the form on a unifo
 ### Intro to PDE's Project 3 2018
 *  Implemented a Multigrid method on a L- shaped grid.
 
+![image](https://user-images.githubusercontent.com/58078485/95735141-5a931a00-0c7c-11eb-8092-597a0629c696.png) 
+
 
 
 
