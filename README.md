@@ -18,7 +18,11 @@ Project was  concerned with numerically solving equations of the form on a unifo
 ![image](https://user-images.githubusercontent.com/58078485/95731442-71833d80-0c77-11eb-88da-47db4a045187.png)
 
 ### Intro to PDE's Project 3 2018
-*  Implemented a Multigrid method on a L- shaped grid.
+Project focused on the solving of Turing Systems shown below using similar methods to Project 2 with a focus on stabilty analysis and non regular domains:
+
+![image](https://user-images.githubusercontent.com/58078485/95735471-c07fa180-0c7c-11eb-8c12-818ed77de28f.png)
+
+* The graphs below show how the numerical simulation can generate a spots pattern which can typically be seen on animals. 
 
 ![image](https://user-images.githubusercontent.com/58078485/95735141-5a931a00-0c7c-11eb-8092-597a0629c696.png) 
 
